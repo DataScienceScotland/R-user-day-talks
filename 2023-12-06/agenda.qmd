@@ -1,0 +1,9 @@
+---
+title: "Scottish Government R User Day 2023"
+format: 
+  html:
+    page-layout: full
+    embed-resources: true
+---
+
+This page has now moved to [Scottish Government Analysis](https://scotgovanalysis.github.io/R-user-day-talks/agenda.html).
