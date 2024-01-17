@@ -6,4 +6,4 @@ format:
     embed-resources: true
 ---
 
-This page has now moved to [Scottish Government Analysis](https://scotgovanalysis.github.io/R-user-day-talks/agenda.html).
+This page has now moved to [Scottish Government Analysis](https://scotgovanalysis.github.io/R-user-day-talks/2023-12-06/agenda.html).
